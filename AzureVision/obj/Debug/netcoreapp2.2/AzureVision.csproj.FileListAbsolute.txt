@@ -1,0 +1,9 @@
+C:\ScratchProjects\AzureVision\bin\Debug\netcoreapp2.2\AzureVision.deps.json
+C:\ScratchProjects\AzureVision\bin\Debug\netcoreapp2.2\AzureVision.dll
+C:\ScratchProjects\AzureVision\obj\Debug\netcoreapp2.2\AzureVision.csprojAssemblyReference.cache
+C:\ScratchProjects\AzureVision\obj\Debug\netcoreapp2.2\AzureVision.csproj.CoreCompileInputs.cache
+C:\ScratchProjects\AzureVision\obj\Debug\netcoreapp2.2\AzureVision.AssemblyInfoInputs.cache
+C:\ScratchProjects\AzureVision\obj\Debug\netcoreapp2.2\AzureVision.AssemblyInfo.cs
+C:\ScratchProjects\AzureVision\bin\Debug\netcoreapp2.2\AzureVision.pdb
+C:\ScratchProjects\AzureVision\obj\Debug\netcoreapp2.2\AzureVision.dll
+C:\ScratchProjects\AzureVision\obj\Debug\netcoreapp2.2\AzureVision.pdb

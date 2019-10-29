@@ -1,0 +1,9 @@
+C:\ScratchProjects\ImageStore\bin\Debug\netcoreapp2.2\ImageStore.deps.json
+C:\ScratchProjects\ImageStore\bin\Debug\netcoreapp2.2\ImageStore.dll
+C:\ScratchProjects\ImageStore\obj\Debug\netcoreapp2.2\ImageStore.csproj.CoreCompileInputs.cache
+C:\ScratchProjects\ImageStore\obj\Debug\netcoreapp2.2\ImageStore.AssemblyInfoInputs.cache
+C:\ScratchProjects\ImageStore\obj\Debug\netcoreapp2.2\ImageStore.AssemblyInfo.cs
+C:\ScratchProjects\ImageStore\bin\Debug\netcoreapp2.2\ImageStore.pdb
+C:\ScratchProjects\ImageStore\obj\Debug\netcoreapp2.2\ImageStore.csprojAssemblyReference.cache
+C:\ScratchProjects\ImageStore\obj\Debug\netcoreapp2.2\ImageStore.dll
+C:\ScratchProjects\ImageStore\obj\Debug\netcoreapp2.2\ImageStore.pdb

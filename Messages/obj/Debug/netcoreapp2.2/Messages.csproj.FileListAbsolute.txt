@@ -1,0 +1,10 @@
+C:\ScratchProjects\Messages\bin\Debug\netcoreapp2.2\Messages.deps.json
+C:\ScratchProjects\Messages\bin\Debug\netcoreapp2.2\Messages.dll
+C:\ScratchProjects\Messages\obj\Debug\netcoreapp2.2\Messages.csprojAssemblyReference.cache
+C:\ScratchProjects\Messages\obj\Debug\netcoreapp2.2\Messages.csproj.CoreCompileInputs.cache
+C:\ScratchProjects\Messages\obj\Debug\netcoreapp2.2\Messages.AssemblyInfoInputs.cache
+C:\ScratchProjects\Messages\obj\Debug\netcoreapp2.2\Messages.AssemblyInfo.cs
+C:\ScratchProjects\Messages\bin\Debug\netcoreapp2.2\Messages.pdb
+C:\ScratchProjects\Messages\obj\Debug\netcoreapp2.2\Messages.dll
+C:\ScratchProjects\Messages\obj\Debug\netcoreapp2.2\Messages.pdb
+C:\ScratchProjects\Messages\bin\Debug\netcoreapp2.2\Messages.dll.config
